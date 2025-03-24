@@ -1,3 +1,3 @@
-this page has updated in customer branch "child -1 branch"
-
-this page has agian updated in employee branch "chile -2 branch"
+<<<<<<< HEAD
+this page has updated in employee branch "child 2 branch"
+>>>>>>> employee
